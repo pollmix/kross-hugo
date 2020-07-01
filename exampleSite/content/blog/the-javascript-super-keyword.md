@@ -1,7 +1,6 @@
 +++
 date = 2020-06-30T18:00:00Z
 description = "The super keyword is used to access and call functions on an object's parent."
-draft = true
 image = "/images/ming-wei-lim-kfxlcfl5oe4-unsplash-min.jpg"
 title = "The JavaScript super keyword"
 
